@@ -2,7 +2,7 @@
 
 👀 I’m interested in robotics, music, and chess.
 
-🔭 I’m currently working on creating an autonomous battle bot that can be replicated by freshman for the upcoming fall semester.
+🔭 I’m actively working on creating an autonomous battle bot that can be replicated by freshman for the upcoming fall semester.
 
 🌱 I’m currently learning Azure, Azure DevOps, Github Actions, and everything circuits. I've taken courses on computing, software design, and plenty of calculus. 
 
