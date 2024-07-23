@@ -4,9 +4,9 @@
 
 🔭 I’m actively working on creating an autonomous battle bot that can be replicated by freshman for the upcoming fall semester
 
-🌱 I’m currently learning Azure, Azure DevOps, Github Actions, and everything circuits. I've taken courses on computing, software design, and plenty of calculus
+🌱 I’m currently learning Azure, Azure DevOps, GitHub Actions, and everything circuits. I've taken courses on computing, software design, and plenty of calculus
 
-💬 Ask me about computer repair! PC randomly crashing? CPU heatsink whining too loud? I've been repairing PCs and pheriferal devices sience I was twelve so I've got a good sum of knowledge built up
+💬 Ask me about computer repair! PC randomly crashing? CPU heatsink whining too loud? I've been repairing PCs and peripheral devices since I was twelve so I've got a good sum of knowledge built up
 
 📫 How to reach me: cpc2526@utexas.edu
 
