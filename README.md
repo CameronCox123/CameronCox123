@@ -1,8 +1,8 @@
 ## Heyo, I'm Cameron
 
-👀 I’m interested in robotics and music
+👀 I’m interested in robotics, music, and coffee
 
-🔭 I’m actively working at ECLAIR an robotics and AI organization here at UT
+🔭 I’m actively working at ECLAIR, a robotics and AI organization here at UT
 
 🌱 I’m currently learning about Computer Architechture, Differential Equations and Robotics. I've taken courses on computing, software design, and plenty of calculus
 
