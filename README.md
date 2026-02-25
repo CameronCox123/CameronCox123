@@ -2,9 +2,9 @@
 
 👀 I’m interested in robotics, music, and coffee
 
-🔭 I’m actively working at ECLAIR, a robotics and AI organization here at UT
+🔭 I’m currently the Vice President of ECLAIR, a robotics and AI organization here at UT
 
-🌱 I’m currently learning about Computer Architechture, Differential Equations and Robotics. I've taken courses on computing, software design, and plenty of calculus
+🌱 I’m currently learning about Computer Operating Systems, Machine Learning Algorithms and Planar Robotic Mechanism. I've taken courses on computing, software design, and plenty of calculus
 
 💬 Ask me about computer repair! PC randomly crashing? CPU heatsink whining too loud? I've been repairing PCs and peripheral devices since I was 12 so I've got a good sum of knowledge built up
 
